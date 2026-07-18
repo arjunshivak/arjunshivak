@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arjun Shiva K 👋</h1>
+<h1 align="left">Hi there, I'm Arjun Shiva K </h1>
 <h3 align="center">Aspiring Backend Developer | Python · Django · FastAPI</h3>
 
 <p align="center">
