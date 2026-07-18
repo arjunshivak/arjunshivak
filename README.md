@@ -54,7 +54,6 @@ A web application combining bank management features with social media functiona
 - Built backend processing logic using Python and Django
 - Integrated MySQL for secure data storage and rapid retrieval
 
-> *(Replace the links above with your actual repo URLs)*
 
 ---
 
